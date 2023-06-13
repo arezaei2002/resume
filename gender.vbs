@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak"Jamejam Click Loves You!"|
